@@ -1,4 +1,5 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# ThriveTalk landing page
+- [DEMO LINK](https://vorfolomeevav.github.io/ThriveTalk/)</br>
+- [Figma design](https://www.figma.com/file/aHd2rHMrnzDXhowLuIQjIyVQ/ThriveTalk-Landing-Page?node-id=0%3A1);</br>
+- Tech stack: HTML5, SASS, JS;</br>
+- Responsive design;
